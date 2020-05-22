@@ -5,7 +5,7 @@
 
     <groupId>org.activiti.activiti-examples</groupId>
     <artifactId>activiti-examples</artifactId>
-    <version>0.1-SNAPSHOT-CHange-1</version>
+    <version>0.1-SNAPSHOT-CHange-2</version>
     <packaging>pom</packaging>
     
     <properties>
